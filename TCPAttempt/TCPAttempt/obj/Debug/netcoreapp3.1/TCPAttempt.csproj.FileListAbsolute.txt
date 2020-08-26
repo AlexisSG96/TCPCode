@@ -1,0 +1,13 @@
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.exe
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.deps.json
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.runtimeconfig.json
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.runtimeconfig.dev.json
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.dll
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\bin\Debug\netcoreapp3.1\TCPAttempt.pdb
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.csprojAssemblyReference.cache
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.AssemblyInfo.cs
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.dll
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.pdb
+C:\Users\Valkyrie\source\repos\TCPAttempt\TCPAttempt\obj\Debug\netcoreapp3.1\TCPAttempt.genruntimeconfig.cache

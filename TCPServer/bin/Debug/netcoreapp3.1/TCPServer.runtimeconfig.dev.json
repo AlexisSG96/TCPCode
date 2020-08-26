@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Valkyrie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Valkyrie\\.nuget\\packages"
+    ]
+  }
+}
